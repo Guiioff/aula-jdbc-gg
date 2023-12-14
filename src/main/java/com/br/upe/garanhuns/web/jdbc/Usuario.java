@@ -1,4 +1,4 @@
-package com.br.upe.garanhuns.web;
+package com.br.upe.garanhuns.web.jdbc;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.annotation.Transient;

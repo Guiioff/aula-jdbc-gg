@@ -1,4 +1,4 @@
-package com.br.upe.garanhuns.web;
+package com.br.upe.garanhuns.web.jdbc;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;

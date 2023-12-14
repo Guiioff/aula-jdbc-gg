@@ -8,6 +8,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.TestPropertySource;
 
+import com.br.upe.garanhuns.web.jdbc.Usuario;
+import com.br.upe.garanhuns.web.jdbc.UsuarioRepositorio;
+
 @SpringBootTest
 @TestPropertySource("classpath:application-teste.properties")
 public class UsuarioRepositorioTeste {
